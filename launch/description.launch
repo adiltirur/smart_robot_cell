@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+  <!-- <arg name="model" default="$(find smartrobotcell)/xacro/bot.xacro" /> -->
+
+  <!-- <param name="robot_description" command="$(find xacro)/xacro - -inorder $(arg model)"/> -->
+  <param name="robot_description" value="$(find smartrobotcell)/xacro/delta.urdf"/>
+
+</launch>

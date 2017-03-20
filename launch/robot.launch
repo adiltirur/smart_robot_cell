@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<launch>
+  <include file="$(find smartrobotcell)/launch/description.launch"/>
+  <include file="$(find smartrobotcell)/launch/rviz.launch"/>
+
+</launch>
