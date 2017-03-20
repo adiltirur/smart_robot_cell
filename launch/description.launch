@@ -3,6 +3,11 @@
   <!-- <arg name="model" default="$(find smartrobotcell)/xacro/bot.xacro" /> -->
 
   <!-- <param name="robot_description" command="$(find xacro)/xacro - -inorder $(arg model)"/> -->
-  <param name="robot_description" value="$(find smartrobotcell)/xacro/delta.urdf"/>
+  <param name="robot_description" textfile="$(find smartrobotcell)/xacro/delta.urdf"/>
+
+  <!-- <node pkg="robot_state_publisher" type="robot_state_publisher" name="robot_pub"/> -->
+  <!-- <node pkg="joint_state_publisher" type="joint_state_publisher" name="joint_pub"/> -->
+
+  <!-- <node pkg="tf" type="static_transform_publisher" name="map_odom_tf_broadcaster" args="0 0 0 0 0 0 /map /base_link 40"/> -->
 
 </launch>
