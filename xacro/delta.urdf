@@ -3,7 +3,7 @@
   <link name="base_link">
     <visual>
       <geometry>
-        <cylinder length="0.6" radius="0.2"/>
+        <mesh filename="package://smartrobotcell/meshes/triskelion_2_mini.stl" scale="0.001 0.001 0.001"/>
       </geometry>
     </visual>
   </link>
