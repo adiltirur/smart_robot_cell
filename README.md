@@ -38,3 +38,5 @@ All the codes are uploaded here. Please check wiki for a detailed instruction.
 
 ### Project Wiki
 [Wiki](https://github.com/adiltirur/smart_robot_cell/wiki)
+### Project Video
+[Video](https://youtu.be/_dZmwegqQ2Y)
