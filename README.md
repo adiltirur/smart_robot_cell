@@ -37,4 +37,4 @@ We used this industrial robot to palletize the components that are sorted by the
 All the codes are uploaded here. Please check wiki for a detailed instruction.
 
 ### Project Wiki
-[Sites Using React](https://github.com/adiltirur/smart_robot_cell/wiki)
+[Wiki](https://github.com/adiltirur/smart_robot_cell/wiki)
